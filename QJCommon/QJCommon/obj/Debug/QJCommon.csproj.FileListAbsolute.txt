@@ -1,0 +1,4 @@
+D:\Personal\Documents\GitHub\QJCommon\QJCommon\QJCommon\bin\Debug\QJCommon.dll
+D:\Personal\Documents\GitHub\QJCommon\QJCommon\QJCommon\bin\Debug\QJCommon.pdb
+D:\Personal\Documents\GitHub\QJCommon\QJCommon\QJCommon\obj\Debug\QJCommon.dll
+D:\Personal\Documents\GitHub\QJCommon\QJCommon\QJCommon\obj\Debug\QJCommon.pdb
